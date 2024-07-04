@@ -7,6 +7,8 @@ This project implements an Event Management Platform using Node.js, Express, Typ
 
 ## Live Link: https://event-management-platform-pufg.onrender.com
 
+## Postman Link : https://api.postman.com/collections/17803945-95f89d84-ffe0-41c8-8dca-314487588044?access_key=PMAT-01J1YPSZY563931G19DSKH4WAV
+
 ## Project Structure
 
 The project follows a structured layout to maintain separation of concerns:
