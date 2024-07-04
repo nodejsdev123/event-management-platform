@@ -5,6 +5,8 @@ Here's an updated format for your `README.md` file based on the structure you pr
 
 This project implements an Event Management Platform using Node.js, Express, TypeScript, and MongoDB.
 
+## Live Link: https://event-management-platform-pufg.onrender.com
+
 ## Project Structure
 
 The project follows a structured layout to maintain separation of concerns:
@@ -65,7 +67,7 @@ event-management-platform/
 
 ### Add Event
 
-- **Endpoint:** `POST /api/events`
+- **Endpoint:** `POST https://event-management-platform-pufg.onrender.com/api/events`
 - **Payload:**
 
   ```json
@@ -86,7 +88,7 @@ event-management-platform/
 
 ### Update Event
 
-- **Endpoint:** `PUT /api/events/:id`
+- **Endpoint:** `PUT https://event-management-platform-pufg.onrender.com/api/events/:id`
 - **Payload:**
 
   ```json
@@ -97,15 +99,15 @@ event-management-platform/
 
 ### Delete Event
 
-- **Endpoint:** `DELETE /api/events/:id`
+- **Endpoint:** `DELETE https://event-management-platform-pufg.onrender.com/api/events/:id`
 
 ### Get Event by ID
 
-- **Endpoint:** `GET /api/events/:id`
+- **Endpoint:** `GET https://event-management-platform-pufg.onrender.com/api/events/:id`
 
 ### List Events
 
-- **Endpoint:** `GET /api/events`
+- **Endpoint:** `GET https://event-management-platform-pufg.onrender.com/api/events`
 
 
 
